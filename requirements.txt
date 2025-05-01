@@ -1,0 +1,6 @@
+# requirements.txt
+
+requests>=2.20.0
+
+# Optional, but recommended for the enhanced user interface:
+rich>=10.0.0
