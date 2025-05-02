@@ -1,7 +1,5 @@
 # Ollama Terminal Assistant 🤖
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 **Interact with your terminal using natural language!** This Python CLI tool acts as an intelligent assistant, leveraging the power of local Ollama models to understand your requests, translate them into appropriate shell commands for your OS, and execute them safely with your explicit, step-by-step confirmation. Features automatic error analysis and correction suggestions.
 
 ---
